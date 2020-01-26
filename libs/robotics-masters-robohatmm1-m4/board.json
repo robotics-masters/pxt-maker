@@ -644,7 +644,7 @@
     "SDA": "SDA",
     "SCL": "SCL",
     "D10": "SDA",
-    "D11": "SCL",
+    "D11": "SCL"
   },
   "onboardComponents": [
     "pixel"
