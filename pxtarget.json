@@ -90,7 +90,8 @@
         "libs/bead-motion",
         "libs/bead-tattoo",
         "libs/bead-proximity",
-        "libs/bead-environment"
+        "libs/bead-environment",
+        "libs/robotics-masters-robohatmm1-m4"
     ],
     "serial": {
         "useHF2": true,

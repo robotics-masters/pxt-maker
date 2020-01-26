@@ -51,4 +51,5 @@ This editor supports various maker boards, based on SAMD21, SAMD51, NRF52.
 [Arduino](/boards/arduino),
 [Project Brookdale](/boards/beads),
 [Misc](/boards/misc),
+[Robotics Masters](/boards/robotics-masters-robohatmm1-m4)
 [Add a new board](/boards/add-a-new-board)
