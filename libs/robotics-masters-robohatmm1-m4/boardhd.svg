@@ -35,11 +35,11 @@
    inkscape:window-height="1064"
    id="namedview1124"
    showgrid="false"
-   inkscape:zoom="5.8524485"
-   inkscape:cx="386.08737"
-   inkscape:cy="316.91971"
-   inkscape:window-x="29"
-   inkscape:window-y="36"
+   inkscape:zoom="2.069153"
+   inkscape:cx="239.98096"
+   inkscape:cy="220.46154"
+   inkscape:window-x="480"
+   inkscape:window-y="68"
    inkscape:window-maximized="0"
    inkscape:current-layer="Layer_1" />
 <style
@@ -571,7 +571,7 @@
    id="gge881_3"
    class="st6"
    points="151.1,87.4 151.1,84.6 151.1,84.6 149.7,86 149.7,86 151.1,87.4 "
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)"
+   transform="matrix(1.8727164,0,0,1.2523661,123.39494,127.3423)"
    style="fill:none;stroke:#ffffff;stroke-linecap:round" />
 
 
@@ -775,14 +775,7 @@
 
 
 
-<line
-   id="gge948_3"
-   class="st6"
-   x1="470.66547"
-   y1="71.515701"
-   x2="470.66547"
-   y2="151.93713"
-   style="fill:none;stroke:#ffffff;stroke-width:2.6979084;stroke-linecap:round" />
+
 
 
 <polyline
@@ -807,14 +800,7 @@
 
 
 
-<line
-   id="gge996_3"
-   class="st6"
-   x1="470.66547"
-   y1="196.73566"
-   x2="470.66547"
-   y2="267.44174"
-   style="fill:none;stroke:#ffffff;stroke-width:2.6979084;stroke-linecap:round" />
+
 
 
 
@@ -940,121 +926,121 @@
 <polygon
    id="A5"
    class="st9"
-   points="161.2,138.2 158.4,138.2 158.4,130.5 161.2,130.5 "
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)"
+   points="161.2,130.5 161.2,138.2 158.4,138.2 158.4,130.5 "
+   transform="matrix(2.697111,0,0,2.6987057,0.01961107,58)"
    style="fill:#dbab27"
    inkscape:label="#A5" />
 <polygon
    id="A4"
    class="st9"
-   points="155.5,138.2 152.7,138.2 152.7,130.5 155.5,130.5 "
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)"
+   points="155.5,130.5 155.5,138.2 152.7,138.2 152.7,130.5 "
+   transform="matrix(2.697111,0,0,2.6987057,0.01961107,58)"
    style="fill:#dbab27" />
 <polygon
    id="5V_GROVE"
    class="st8"
-   points="149.9,138.2 147.1,138.2 147.1,130.5 149.9,130.5 "
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)"
+   points="149.9,130.5 149.9,138.2 147.1,138.2 147.1,130.5 "
+   transform="matrix(2.697111,0,0,2.6987057,0.01961107,58)"
    style="fill:#d42328" />
 <polygon
    id="GND_GROVE"
-   points="144.2,138.2 141.4,138.2 141.4,130.5 144.2,130.5 "
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)" />
+   points="144.2,130.5 144.2,138.2 141.4,138.2 141.4,130.5 "
+   transform="matrix(2.697111,0,0,2.6987057,0.01961107,58)" />
 <polygon
    id="MOSI"
    class="st9"
    points="174.6,42.4 168.9,42.4 168.9,40.4 174.6,40.4 "
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)"
+   transform="matrix(2.697111,0,0,2.6987057,28.019611,0)"
    style="fill:#dbab27" />
 <polygon
    id="MISO"
    class="st9"
    points="174.6,46 168.9,46 168.9,44 174.6,44 "
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)"
+   transform="matrix(2.697111,0,0,2.6987057,28.019611,0)"
    style="fill:#dbab27" />
 <polygon
    id="GND_SPI"
    points="174.6,31.7 168.9,31.7 168.9,29.7 174.6,29.7 "
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)" />
+   transform="matrix(2.697111,0,0,2.6987057,28.019611,0)" />
 <polygon
    id="NC"
    class="st9"
    points="174.6,35.2 168.9,35.2 168.9,33.2 174.6,33.2 "
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)"
+   transform="matrix(2.697111,0,0,2.6987057,28.019611,0)"
    style="fill:#dbab27" />
 <polygon
    id="D12"
    class="st9"
    points="174.6,38.9 168.9,38.9 168.9,36.9 174.6,36.9 "
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)"
+   transform="matrix(2.697111,0,0,2.6987057,28.019611,0)"
    style="fill:#dbab27" />
 <polygon
    id="SCK"
    class="st9"
    points="174.6,49.5 168.9,49.5 168.9,47.5 174.6,47.5 "
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)"
+   transform="matrix(2.697111,0,0,2.6987057,28.019611,0)"
    style="fill:#dbab27" />
 <polygon
    id="5V_SPI"
    class="st8"
-   points="174.6,53.1 168.9,53.1 168.9,51.1 174.6,51.1 "
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)"
+   points="168.9,51.1 174.6,51.1 174.6,53.1 168.9,53.1 "
+   transform="matrix(2.697111,0,0,2.6987057,28.019611,0)"
    style="fill:#d42328" />
 <polygon
    id="5V_I2C"
    class="st8"
-   points="174.6,132 168.9,132 168.9,130 174.6,130 "
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)"
+   points="168.9,130 174.6,130 174.6,132 168.9,132 "
+   transform="matrix(2.697111,0,0,2.6987057,28.019611,0)"
    style="fill:#d42328" />
 <polygon
    id="GND_I2C"
    points="174.6,121.2 168.9,121.2 168.9,119.3 174.6,119.3 "
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)" />
+   transform="matrix(2.697111,0,0,2.6987057,28.019611,0)" />
 <polygon
    id="SDA"
    class="st9"
    points="174.6,124.8 168.9,124.8 168.9,122.8 174.6,122.8 "
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)"
+   transform="matrix(2.697111,0,0,2.6987057,28.019611,0)"
    style="fill:#dbab27" />
 <polygon
    id="SCL"
    class="st9"
    points="174.6,128.4 168.9,128.4 168.9,126.4 174.6,126.4 "
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)"
+   transform="matrix(2.697111,0,0,2.6987057,28.019611,0)"
    style="fill:#dbab27" />
 <polygon
    id="RX"
    class="st9"
    points="174.6,88.8 168.9,88.8 168.9,86.9 174.6,86.9 "
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)"
+   transform="matrix(2.697111,0,0,2.6987057,28.019611,0)"
    style="fill:#dbab27" />
 <polygon
    id="TX"
    class="st9"
    points="174.6,92.4 168.9,92.4 168.9,90.4 174.6,90.4 "
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)"
+   transform="matrix(2.697111,0,0,2.6987057,28.019611,0)"
    style="fill:#dbab27" />
 <polygon
    id="GND_GPS"
    points="174.6,78.1 168.9,78.1 168.9,76.1 174.6,76.1 "
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)" />
+   transform="matrix(2.697111,0,0,2.6987057,28.019611,0)" />
 <polygon
    id="D10"
    class="st9"
    points="174.6,81.6 168.9,81.6 168.9,79.7 174.6,79.7 "
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)"
+   transform="matrix(2.697111,0,0,2.6987057,28.019611,0)"
    style="fill:#dbab27" />
 <polygon
    id="D11"
    class="st9"
    points="174.6,85.3 168.9,85.3 168.9,83.3 174.6,83.3 "
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)"
+   transform="matrix(2.697111,0,0,2.6987057,28.019611,0)"
    style="fill:#dbab27" />
 <polygon
    id="5V_GPS"
    class="st8"
    points="174.6,95.9 168.9,95.9 168.9,93.9 174.6,93.9 "
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)"
+   transform="matrix(2.697111,0,0,2.6987057,28.019611,0)"
    style="fill:#d42328" />
 <ellipse
    id="GND_RCC4"
@@ -1840,15 +1826,15 @@
 
 <polygon
    class="st9"
-   points="151.7,88 151.7,84 155.4,84 155.4,88 "
+   points="155.4,88 151.7,88 151.7,84 155.4,84 "
    id="polygon555"
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)"
+   transform="matrix(1.6605405,0,0,1.536,157.62982,102.68057)"
    style="fill:#dbab27" />
 <polygon
    class="st9"
-   points="145.8,88 145.8,84 149.4,84 149.4,88 "
+   points="145.8,84 149.4,84 149.4,88 145.8,88 "
    id="polygon557"
-   transform="matrix(2.697111,0,0,2.6987057,0.01961107,0)"
+   transform="matrix(1.7066667,0,0,1.536,148.4138,102.68057)"
    style="fill:#dbab27" />
 <polygon
    class="st9"
@@ -2115,9 +2101,9 @@
 <path
    id="path5922"
    class="st17"
-   d="m 415.91412,237.75598 h -19.68891 c -0.80912,0 -1.34855,-0.53974 -1.34855,-1.34935 v -8.36599 c 0,-0.80961 0.53943,-1.34936 1.34855,-1.34936 h 19.68891 c 0.80914,0 1.34856,0.53975 1.34856,1.34936 v 8.36599 c 0,0.53973 -0.53942,1.34935 -1.34856,1.34935 z"
+   d="m 410.75454,237.85557 h -8.79518 c -0.36144,0 -0.60241,-0.29971 -0.60241,-0.74927 v -4.64546 c 0,-0.44956 0.24097,-0.74927 0.60241,-0.74927 h 8.79518 c 0.36145,0 0.60241,0.29971 0.60241,0.74927 v 4.64546 c 0,0.2997 -0.24096,0.74927 -0.60241,0.74927 z"
    inkscape:connector-curvature="0"
-   style="fill:#dcdcdc;stroke-width:2.6979084" />
+   style="fill:#dcdcdc;stroke-width:1.34367597" />
 <path
    id="path5922_1_"
    class="st17"
@@ -2942,12 +2928,12 @@
    style="fill:#fbf282;stroke-width:2.6979084" />
 <rect
    id="R_LED"
-   x="400.00116"
-   y="226.42143"
+   x="403.3898"
+   y="231.70457"
    class="st41"
-   width="11.327866"
-   height="11.334564"
-   style="fill:#ed2224;stroke-width:2.6979084" />
+   width="6.1440001"
+   height="6.1440001"
+   style="fill:#ed2224;stroke-width:1.46285725" />
 <path
    id="RESETBTN"
    class="st42"
